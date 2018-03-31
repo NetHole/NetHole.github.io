@@ -3,7 +3,7 @@ layout: post
 title: "初心"
 author: "NetHole"
 categories: "freethink"
-tags: [documentation]
+tags: [随心]
 image: Begin.jpg
 ---
 
